@@ -16,7 +16,6 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
 
-```bash
 git clone https://github.com/yourusername/ecommerce_django_project
 .git
 
@@ -26,30 +25,29 @@ cd django-ecommerce
 
 3. **Create a virtual environment and activate it:**
 
-```bash  
 python -m venv venv
 
 source venv/bin/activate  # For Linux/Mac
 
 venv\Scripts\activate.bat  # For Windows
 
-4. Install dependencies:
+4. **Install dependencies:**
  
 pip install -r requirements.txt
 
-5. Apply migrations:
+5. **Apply migrations:**
   
 python manage.py migrate
 
-6. Create a superuser:
+6. **Create a superuser:**
   
 python manage.py createsuperuser
 
-7. Start the development server:
+7. **Start the development server:**
    
 python manage.py runserver
 
-10. Access the website at http://localhost:8000/.
+8. **Access the website at http://localhost:8000/.**
 
 
 

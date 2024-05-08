@@ -14,17 +14,19 @@ Admin interface: Manage product inventory, view orders, and update order statuse
 ## Setup
 To set up the project locally, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
 
+```bash
 git clone https://github.com/yourusername/ecommerce_django_project
 .git
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
    
 cd django-ecommerce
 
-3. Create a virtual environment and activate it:
-  
+3. **Create a virtual environment and activate it:**
+
+```bash  
 python -m venv venv
 
 source venv/bin/activate  # For Linux/Mac
@@ -45,7 +47,7 @@ python manage.py createsuperuser
 
 7. Start the development server:
    
-**python manage.py runserver**
+python manage.py runserver
 
 10. Access the website at http://localhost:8000/.
 

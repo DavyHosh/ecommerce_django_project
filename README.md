@@ -1,17 +1,17 @@
-#Django E-Commerce Website
+# Django E-Commerce Website
 Welcome to our Django-based e-commerce website!
 
-##Overview
+## Overview
 This project is a simple e-commerce website built using Django, a Python web framework. It allows users to browse products, add them to a shopping cart, and place orders. The website also includes features for managing product inventory and processing orders.
 
-##Features
+## Features
 User authentication: Register, login, and logout functionality for users.
 Product browsing: Browse products by category and search for specific products.
 Shopping cart: Add products to a shopping cart and update quantities.
 Checkout: Process orders by providing shipping and payment information.
 Admin interface: Manage product inventory, view orders, and update order statuses.
 
-##Setup
+## Setup
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
@@ -41,7 +41,7 @@ python manage.py runserver
 
 
 
-##Contributing
+## Contributing
 We welcome contributions to improve the project! To contribute, follow these steps:
 
 1. Fork the repository.
@@ -50,5 +50,5 @@ We welcome contributions to improve the project! To contribute, follow these ste
 4. Push to the branch: git push origin feature/new-feature.
 5. Submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.

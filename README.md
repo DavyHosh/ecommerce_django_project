@@ -25,11 +25,11 @@ To set up the project locally, follow these steps:
 
 **3. Create a virtual environment and activate it:**
 
-`python -m venv venv
+`python -m venv venv`
 
-venv\Scripts\activate.bat  # For Windows
+`venv\Scripts\activate.bat  # For Windows`
 
-source venv/bin/activate  # For Linux/Mac`
+`source venv/bin/activate  # For Linux/Mac`
 
 **4. Install dependencies:**
  
